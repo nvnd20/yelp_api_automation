@@ -17,9 +17,9 @@ c)	You can run individual test classes (YelpSearchAPINegativeTest and YelpSearch
 
 In positive test case, I have mentioned the values which returns the valid response
 There are three test case
-1)	In this test case we have searched on location.If location is valid then it returns all the business data from that location.
-2)	In this test case we have searched for particular type of business in given location so we searched using term and location
-3)	In this test case we have searched for particular type of business in given location and zip so we searched using term, location and zip
+1)	In this test case I have searched on location.If location is valid then it returns all the business data from that location.
+2)	In this test case I have searched for particular type of business in given location so searched using term and location
+3)	In this test case I have searched for particular type of business in given location and zip so searched using term, location and zip
 
 All above test cases are asserted on the response.I also asserted on business data from response.
 
